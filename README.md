@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Guayaba15/Guayaba15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<div align="center">
+
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=Guayaba15&theme=dark-smoky&locale=es)](https://git.io/streak-stats)
-</div>
+
 
