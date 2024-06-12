@@ -34,6 +34,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript" title="Typescript" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40" height="40">
 </div>
 
 ---
