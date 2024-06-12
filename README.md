@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on a proyect in the UTD
 - 🌱 I’m currently learning **React.js, Node.js, Java, Javascript, Typescript, MySQL & C++**
-- 🤔 I’m looking for help with **C, C#, Angular, and Ionic**
+- 🤔 I’m looking for help with **C, C# and Ionic**
 - 💬 Ask me about **PHP, Javascript & MySQL**
 - 📫 How to reach me: Pendient...
 
@@ -35,6 +35,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" alt="Materializecss" title="Materializecss" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" title="NodeJs" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40">
 </div>
 
 ---
