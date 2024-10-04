@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://preview.redd.it/a-capybara-with-a-gaming-headset-playing-videogames-alone-v0-8p1cwzg5ljt91.png?width=640&crop=smart&auto=webp&s=4d296a0debe65350c7eb45136f62f2d3baa00d69" alt="Capy Gamer" width="300px">
+    <img src="https://avatars.githubusercontent.com/u/103918961?s=400&u=70b3760abe62d53147bcd1875ef1a1ee3194902a&v=4" alt="Just me" width="300px">
     <h1 align="center"> Hi, Im Dávila </h1>
     <h3 align="center"> 
         Since I was very young, I was passionate about technology and everything related to the computer world. 
