@@ -13,8 +13,8 @@
 ### 🧑 About Me:
 
 - 🔭 I’m currently working on a proyect in the UTD
-- 🌱 I’m currently learning **React.js, Node.js, Java, Javascript, Typescript, MySQL & C++**
-- 🤔 I’m looking for help with **C, C# and Ionic**
+- 🌱 I’m currently learning **React.js, Node.js, Java, Javascript, Typescript, MySQL, C++ and Ionic**
+- 🤔 I’m looking for help with **C and C#**
 - 💬 Ask me about **PHP, Javascript & MySQL**
 - 📫 How to reach me: david.davila.dev@gmail.com
 
