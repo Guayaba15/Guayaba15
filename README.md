@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://avatars.githubusercontent.com/u/103918961?s=400&u=70b3760abe62d53147bcd1875ef1a1ee3194902a&v=4" alt="Just me" width="300px">
-    <h1 align="center"> Hi, Im Dávila </h1>
+    <h1 align="center"> Hi, Im David </h1>
     <h3 align="center"> 
         Since I was very young, I was passionate about technology and everything related to the computer world. 
         I learned to program for the first time in high school. I love breaking down problems into simpler parts and 
@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **React.js, Node.js, Java, Javascript, Typescript, MySQL & C++**
 - 🤔 I’m looking for help with **C, C# and Ionic**
 - 💬 Ask me about **PHP, Javascript & MySQL**
-- 📫 How to reach me: Pendient...
+- 📫 How to reach me: david.davila.dev@gmail.com
 
 <div align="left">
     <h2>🔨 Languages and Tools: </h2>
